@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[蝦皮爬蟲專案](/project/shoppee_crawler.html)
+<img src="images/shopee_crawler.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[文字預測股價專案](/project/mlem.html)
+<img src="images/mlem.png?raw=true"/>
+
+---
+[停車場專案](http://example.com/)
+<img src="images/parking.jpg?raw=true"/>
 
 ---
 
@@ -26,10 +26,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
