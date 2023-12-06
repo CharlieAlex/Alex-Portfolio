@@ -20,7 +20,7 @@
 ### Economics Essays
 
 - [父母死亡對子女婚姻決策的影響--台灣實證研究](/paper/thesis.pdf)
-<img src="images/100day_1.pdf"/>
+<img src="images/100day_1.png"/>
 
 ---
 
@@ -30,6 +30,6 @@
 ---
 
 - [What is the cause and effect of the domestic division of unpaid labor? Evidence From Taiwanese Family](/paper/applied_econ_final.pdf)
-<img src="images/Trend_TCE.pdf"/>
+<img src="images/Trend_TCE.png"/>
 
 ---
