@@ -24,11 +24,11 @@ Developed a project focusing on data retrieval from Taipei City's official parki
 Engineered a Line chatbot with advanced web scraping for consolidating match predictions from sports betting websites. The bot adeptly compiles and analyzes forecasts, delivering prompt insights into current prediction trends. Results are seamlessly dispatched to a Google inbox and simultaneously integrated into a Google Sheet for comprehensive analysis. This optimized workflow ensures timely access to prevalent predictive patterns, aiding strategic decision-making in the sports betting domain.
 
 <div style="display: flex;">
-  <img src="images/sport_lottery1.jpeg?raw=true" alt="Image 1" style="width: 30%;">
-  <img src="images/sport_lottery2.jpeg?raw=true" alt="Image 2" style="width: 30%;">
-  <img src="images/sport_lottery3.jpeg?raw=true" alt="Image 2" style="width: 30%;">
+  <img src="images/sport_lottery1.jpeg?raw=true" alt="Image 1" style="width: 40%;">
+  <img src="images/sport_lottery2.jpeg?raw=true" alt="Image 2" style="width: 40%;">
+  <img src="images/sport_lottery3.jpeg?raw=true" alt="Image 2" style="width: 40%;">
 </div>
-<img src="images/sport_lottery0.png?raw=true" alt="Image 1" style="width: 90%;">
+<img src="images/sport_lottery0.png?raw=true" alt="Image 1" style="width: 120%;">
 
 ---
 
@@ -38,7 +38,7 @@ Engineered a Line chatbot with advanced web scraping for consolidating match pre
 
 Developed a predictive analytics project leveraging natural language processing and machine learning to forecast daily stock price movements based on discussions in online news articles. Implemented the creation of TF-IDF matrices from textual data, utilizing machine learning algorithms to learn word frequency patterns and predict stock price fluctuations several days in advance. This project showcases my proficiency in data analysis, machine learning, and strategic forecasting in the financial domain.
 
-<img src="images/mlem.png?raw=true" alt="Image 1" style="width: 90%;">
+<img src="images/mlem.png?raw=true" alt="Image 1" style="width: 120%;">
 
 ---
 
@@ -46,24 +46,19 @@ Developed a predictive analytics project leveraging natural language processing 
 
 ### [The Effects of Parental Death on Offspring’s Marital Decisions: Evidence from Taiwan](/paper/thesis.pdf)
 
-*A Pioneering Study in Taiwan Reveals Insights into the Potential Effect of Mother-in-law problem*
-
-This study investigates the impact of parental death on offspring's marital decisions in Taiwan, distinguishing the influence of mother-in-law problems and real estate inheritance. Analyzing data from 2005 to 2020, findings reveal a significant increase in marriage probability for bereaved sons after mothers' deaths, emphasizing the role of mother-in-law problems. Interestingly, the inheritance shock from the value of deceased parents' real estate shows less correlation with offspring's marital decisions.
+*A Pioneering Study in Taiwan Reveals the Potential Effect of Mother-in-law problem using Event Study Method*
 
 ---
 
 ### [How does National Pension Reform affect household economic behaviors? Evidence from Taiwan](/paper/labor_final.pdf)
 
-*Unveiling Household Responses to Taiwan's National Pension Reform and Its Economic Impact*
-
-This study investigates the impact of Taiwan's 2018 National Pension Reform on household economic behaviors, testing the permanent income hypothesis. Utilizing the difference-in-differences method, the findings reveal consumption smoothing, particularly in high-income households.
+*Unveiling Household Responses to Taiwan's National Pension Reform with Difference-in-Differences method*
 
 ---
 
 ### [What is the cause and effect of the domestic division of unpaid labor? Evidence From Taiwanese Family](/paper/applied_econ_final.pdf)
 
-*Decoding Household Dynamics Challenging Conventional Wisdom on Unpaid Labor in Taiwan*
-
-This study explores the causes and consequences of the domestic division of unpaid labor in Taiwanese families. Testing cultural theories, it challenges gender roles, income differentials, and work hours as predictors. Findings reject unequal time spent on housework affecting family satisfaction and life quality.
+*Decoding Household Dynamics Challenging Conventional Wisdom on Unpaid Labor in Taiwan with Ordered Probit model*
 
 ---
+
