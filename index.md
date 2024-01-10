@@ -8,11 +8,11 @@
 
 *Historical Data Tracking and Visualization of Taipei City Parking Spaces*
 
-Developed a project focusing on data retrieval from Taipei City's official parking website, enhancing accessibility to real-time parking availability. Transferred the collected data to AWS Cloud, enabling historical queries and offering statistical insights. Designed a user-friendly website for personalized searches, contributing to informed decision-making regarding parking choices in the city.
+A project with my friend focusing on enhancing accessibility to real-time parking availability by retrieving data from Taipei City's official parking website. We transferred the data to AWS Cloud, enabling historical queries and providing valuable statistical insights. Additionally, we designed a user-friendly website to facilitate personalized searches, contributing to informed decision-making regarding parking choices in the city.
 
 <div style="display: flex; flex-direction: column;">
-  <img src="images/parking1.png?raw=true" alt="Image 1" style="width: 120%;">
-  <img src="images/parking2.png?raw=true" alt="Image 2" style="width: 120%;">
+  <img src="images/parking1.png?raw=true" alt="Image 1" style="width: 100%;">
+  <img src="images/parking2.png?raw=true" alt="Image 2" style="width: 100%;">
 </div>
 
 ---
@@ -21,14 +21,14 @@ Developed a project focusing on data retrieval from Taipei City's official parki
 
 *Aggregating Sports Predictions for a Strategic Wagering Edge*
 
-Engineered a Line chatbot with advanced web scraping for consolidating match predictions from sports betting websites. The bot adeptly compiles and analyzes forecasts, delivering prompt insights into current prediction trends. Results are seamlessly dispatched to a Google inbox and simultaneously integrated into a Google Sheet for comprehensive analysis. This optimized workflow ensures timely access to prevalent predictive patterns, aiding strategic decision-making in the sports betting domain.
+This Line chatbot employs real-time web scraping to consolidate match predictions sourced from individuals featured on the billboard of [sports betting websites](https://www.playsport.cc/). The bot compiles and analyzes forecasts, providing valuable insights into the current trends of predictions. Results are promptly delivered to the Gmail inbox specified by users and simultaneously integrated into a Google Sheet for thorough analysis. This optimized workflow ensures swift access to prevailing predictive patterns, empowering users to effortlessly make predictions in line with the consensus.
 
 <div style="display: flex;">
-  <img src="images/sport_lottery1.jpeg?raw=true" alt="Image 1" style="width: 40%;">
-  <img src="images/sport_lottery2.jpeg?raw=true" alt="Image 2" style="width: 40%;">
-  <img src="images/sport_lottery3.jpeg?raw=true" alt="Image 2" style="width: 40%;">
+  <img src="images/sport_lottery1.jpeg?raw=true" alt="Image 1" style="width: 33%;">
+  <img src="images/sport_lottery2.jpeg?raw=true" alt="Image 2" style="width: 33%;">
+  <img src="images/sport_lottery3.jpeg?raw=true" alt="Image 2" style="width: 33%;">
 </div>
-<img src="images/sport_lottery0.png?raw=true" alt="Image 1" style="width: 120%;">
+<img src="images/sport_lottery0.png?raw=true" alt="Image 1" style="width: 100%;">
 
 ---
 
@@ -36,9 +36,9 @@ Engineered a Line chatbot with advanced web scraping for consolidating match pre
 
 *Forecasting Market Moves with Textual Analysis and Machine Learning*
 
-Developed a predictive analytics project leveraging natural language processing and machine learning to forecast daily stock price movements based on discussions in online news articles. Implemented the creation of TF-IDF matrices from textual data, utilizing machine learning algorithms to learn word frequency patterns and predict stock price fluctuations several days in advance. This project showcases my proficiency in data analysis, machine learning, and strategic forecasting in the financial domain.
+A predictive analytics project that combines natural language processing and machine learning to forecast daily stock price movements based on discussions in online news and articles. The project involves the creation of TF-IDF matrices from textual data, implementing machine learning algorithms to learn word frequency patterns, and predicting stock price fluctuations several days in advance.
 
-<img src="images/mlem.png?raw=true" alt="Image 1" style="width: 120%;">
+<img src="images/mlem.png?raw=true" alt="Image 1" style="width: 100%;">
 
 ---
 
@@ -61,4 +61,3 @@ Developed a predictive analytics project leveraging natural language processing 
 *Decoding Household Dynamics Challenging Conventional Wisdom on Unpaid Labor in Taiwan with Ordered Probit model*
 
 ---
-
