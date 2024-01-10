@@ -38,7 +38,8 @@ This Line chatbot employs real-time web scraping to consolidate match prediction
 
 A predictive analytics project that combines natural language processing and machine learning to forecast daily stock price movements based on discussions in online news and articles. The project involves the creation of TF-IDF matrices from textual data, implementing machine learning algorithms to learn word frequency patterns, and predicting stock price fluctuations several days in advance.
 
-<img src="images/mlem.png?raw=true" alt="Image 1" style="width: 100%;">
+<img src="images/output1.png?raw=true" alt="Image 1" style="width: 100%;">
+<img src="images/output3.png?raw=true" alt="Image 1" style="width: 100%;">
 
 ---
 
