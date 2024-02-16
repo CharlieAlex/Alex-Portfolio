@@ -48,11 +48,13 @@ In light of this, I've devised a web scraping system to capture the prediction r
 This system collates their wagers, identifies the most favored choices, and provides users with effortless access to potential profitable betting directions.
 It encompasses web data scraping, data aggregation, and delivery to user mailboxes, utilizing Google Sheets as a compact database for accessing results, and conducting statistical analyses of prediction accuracy.
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img src="images/sport_lottery2.jpeg?raw=true" alt="Image 2" style="width: 45%;">
   <img src="images/sport_lottery3.jpeg?raw=true" alt="Image 2" style="width: 45%;">
-</div>
-<img src="images/winchart.png?raw=true" alt="勝率圖" style="width: 100%;">
+</div> -->
+<img src="images/total_result.png?raw=true" alt="資料庫" style="width: 100%;">
+<img src="images/Sport Lottery Database.svg?raw=true" alt="勝率圖" style="width: 100%;">
+
 ---
 
 ### [Stock Price Movements Prediction](/project/mlem.html)
@@ -70,7 +72,7 @@ News analysis has always been an important aspect of stock investment, but it co
 With the advancements in text mining and machine learning, such analytical methods have re-emerged with fresh perspectives,
 as highlighted in [On the Importance of Text Analysis for Stock Price Prediction](https://aclanthology.org/L14-1048/).
 This project, which is a final program for Machine Learning and Econometrics, aims to predict short-term fluctuations in Taiwanese stocks using various machine learning algorithms.
-The textual datas includes news articles and forum posts on PTT, which are provided by the professor.
+The textual data include news articles and forum posts on PTT, which are provided by the professor.
 Although the training results were not sufficient to serve as practical investment strategies because of the limited amount of data, this project still provided me with valuable practice opportunities.
 
 <img src="images/output1.png?raw=true" alt="Image 1" style="width: 100%;">
